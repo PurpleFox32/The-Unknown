@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background:#333;
+    color:white;
+}
+#inventory, #gameProgress {
+    border: 1px solid gold;
+    padding: 10px;
+    margin: 10px 0;
+    width: 300px;
+}
+#inventory h2, #gameProgress h2 {
+    margin: 0 0 10px 0;
+}
